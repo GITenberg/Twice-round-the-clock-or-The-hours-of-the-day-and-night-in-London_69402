@@ -1,0 +1,47 @@
+_repo: Twice-round-the-clock-or-The-hours-of-the-day-and-night-in-London_69402
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: McConnell, William
+    aliases:
+    - M'Connell, William
+    - M'Connel, William
+    birthdate: 1833
+    deathdate: 1867
+    gutenberg_agent_id: '55150'
+    url: http://www.gutenberg.org/2009/agents/55150
+    wikipedia: https://en.wikipedia.org/wiki/William_McConnell_(illustrator)
+creator:
+  author:
+    agent_name: Sala, George Augustus
+    aliases:
+    - Sala, George Augustus Henry
+    - Sala, George A. (George Augustus)
+    - Old stoker
+    - stoker, Old
+    birthdate: 1828
+    deathdate: 1895
+    gutenberg_agent_id: '32160'
+    url: http://www.gutenberg.org/2009/agents/32160
+    wikipedia: https://en.wikipedia.org/wiki/George_Augustus_Sala
+description: ''
+gutenberg_issued: '2022-11-21'
+identifiers:
+  gutenberg: '69402'
+language: en
+pgterms:marc904: https://archive.org/details/b24859552
+pgterms:marc905: 20210419190439sala
+pgterms:marc906: '1862'
+pgterms:marc907: gb
+production_note: Mark C. Orton and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: Richard Marsh,1862.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Social life and customs -- 19th century'
+- !lcc 'DA'
+- GITenberg
+title: Twice round the clock; or, The hours of the day and night in London
+url: http://www.gutenberg.org/ebooks/69402
