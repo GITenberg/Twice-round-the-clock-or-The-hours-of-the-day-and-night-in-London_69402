@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '55150'
     url: http://www.gutenberg.org/2009/agents/55150
     wikipedia: https://en.wikipedia.org/wiki/William_McConnell_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 69402-h/images/cover.jpg
 creator:
   author:
     agent_name: Sala, George Augustus
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32160
     wikipedia: https://en.wikipedia.org/wiki/George_Augustus_Sala
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69402#Twice-round-the-clock-or-The-hours-of-the-day-and-night-in-London
 gutenberg_issued: '2022-11-21'
 identifiers:
   gutenberg: '69402'
